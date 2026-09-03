@@ -2,8 +2,4 @@
     aliases {
         indicator-led = &blue_led;
     };
-
-    leds {
-        status = "okay";
-    };
 };
